@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[co]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+env/
+venv/
+
+# Temporary and generated artifacts
+tmp*
+tmp_*.csv
+tmp_matrix*.csv
+tmp_plots*.csv
+
+# Data, models, plots, results (not published)
+pregen_data/
+results/
+plots/
+plots-old/
+*.pt
+
+# Writeup artifacts
+writeup/*
+
+# Python cache
+__pycache__/
